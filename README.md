@@ -6,6 +6,8 @@
 행성은 4단계로 나누어지고 모든 행성을 없애면 이기는 게임이다.
 ```
 
+![image](https://raw.githubusercontent.com/hoseobjeon/portfolio/master/assets/img/panggame.png)
+
 ## 사용 라이브러리
 * pygame
 * os
