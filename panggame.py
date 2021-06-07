@@ -1,5 +1,6 @@
 # 팡게임
 
+# 라이브러리
 import os
 import pygame
 
